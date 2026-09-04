@@ -69,8 +69,5 @@ button{
   font-weight: 600;
   width: 38px;
 }
-header div{
-  justify-content: center;
-  align-items: center;
-}
+
 </style>
